@@ -22,6 +22,7 @@
     align-items: center;
     
     
+    
 }
 .cover ul li {
     margin-left: 50px;
@@ -41,6 +42,7 @@
     cursor: pointer;
     width: 200px;
     height: 200px;
+
 }
 
 .subject {
@@ -48,11 +50,11 @@
 }
 
 .subject ul {
-    
     width: 200px;
     height: 150px;
     background-color: rgba(127, 170, 255, 0.416);
     margin-left: 300px;
+    
 }
 
 .cover ul li:hover .subject {
