@@ -36,6 +36,7 @@
     font-size: 20px;
 }
 
+/*
 .cover ul li:hover {
     background-color: rgb(12, 105, 105);
     border-radius: 10px;
@@ -44,7 +45,7 @@
     height: 200px;
 
 }
-
+*/
 .subject {
     display: none;
 }
